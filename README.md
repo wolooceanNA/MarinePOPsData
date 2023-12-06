@@ -12,6 +12,8 @@ Time series of persistent organic pollutants in the marine atmosphere:
 Time series of persistent organic pollutants in the marine seawater:
 ![image](https://github.com/wolooceanNA/MarinePOPsData/blob/main/readme_IMG/Time%20series%20of%20persistent%20organic%20pollutants%20in%20the%20marine%20seawater.png)
 
+Warning: The timing of changes in concentration/compound concentration is not consistent across regions/compounds, and some spans only include certain years in the 20th century
+
 Concentration changes of persistent organic pollutants in the ocean and atmosphere based on linear regression
 ![image](https://github.com/wolooceanNA/MarinePOPsData/blob/main/readme_IMG/Concentration%20changes%20of%20persistent%20organic%20pollutants%20in%20the%20marine%20atmosphere%20based%20on%20linear%20regression.png)
 
