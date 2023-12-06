@@ -1,6 +1,7 @@
 # MarinePOPsData
 Caution: It is recommended to conduct detailed inspection before using the data, because the data identification and drawing are completed by one person, and there is a lack of correction process.
-
+The copyright of the original data belongs to the original author/original document. All data are freely available.
+For using the secondary analysis, you can refer to this Github repository. All content involved is independently completed.
 Historical data of seawater and marine atmospheric persistent organic pollutants identified through OCR technology
 This project using OCR technology extracted data on multiple persistent organic pollutants from tables, texts and pictures in historical documents. Currently, it only includes homologues of polychlorinated biphenyls, organochlorine pesticides (Hexachlorocyclohexane, DDT, Dieldrin etc. )
 The information provided includes date, latitude and longitude, sea area division based on (International Maritime Organization) IMO, concentration(units are pg/L) and water vapor exchange data.
