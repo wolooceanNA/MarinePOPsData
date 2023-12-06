@@ -5,14 +5,15 @@ Historical data of seawater and marine atmospheric persistent organic pollutants
 This project using OCR technology extracted data on multiple persistent organic pollutants from tables, texts and pictures in historical documents. Currently, it only includes homologues of polychlorinated biphenyls, organochlorine pesticides (Hexachlorocyclohexane, DDT, Dieldrin etc. )
 The information provided includes date, latitude and longitude, sea area division based on (International Maritime Organization) IMO, concentration(units are pg/L) and water vapor exchange data.
 Some data are estimated through context, please refer to the annotation in NOTE.
-Here are some relevant descriptive info by figure：
+Here are some relevant descriptive info by figure:
+
 Time series of persistent organic pollutants in the marine atmosphere:
 ![image](https://github.com/wolooceanNA/MarinePOPsData/blob/main/readme_IMG/Time%20series%20of%20persistent%20organic%20pollutants%20in%20the%20marine%20atmosphere.png)
 
 Time series of persistent organic pollutants in the marine seawater:
 ![image](https://github.com/wolooceanNA/MarinePOPsData/blob/main/readme_IMG/Time%20series%20of%20persistent%20organic%20pollutants%20in%20the%20marine%20seawater.png)
 
-Warning: The timing of changes in concentration/compound concentration is not consistent across regions/compounds, and some spans only include certain years in the 20th century
+Warning: The timing of changes in concentration/compound concentration is not consistent across regions/compounds, and some spans only include certain years in the 20th century.Therefore, the regression plot does not represent the actual concentration changes during the current time period.
 
 Concentration changes of persistent organic pollutants in the ocean and atmosphere based on linear regression
 ![image](https://github.com/wolooceanNA/MarinePOPsData/blob/main/readme_IMG/Concentration%20changes%20of%20persistent%20organic%20pollutants%20in%20the%20marine%20atmosphere%20based%20on%20linear%20regression.png)
