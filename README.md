@@ -18,3 +18,6 @@ Concentration changes of persistent organic pollutants in seawater based on line
 
 Take this picture as an example, which shows the concentration (based on the size of the circle) and the time of detection (based on the color)
 ![image](https://github.com/wolooceanNA/MarinePOPsData/blob/main/readme_IMG/HCB%20in%20marine%20atmosphere.png)
+
+Similarly, this graph shows flux information. However, there is a lack of flux size data because most literature has not reported it.
+![image](https://github.com/wolooceanNA/MarinePOPsData/blob/main/readme_IMG/HCB%20flux%20data.png)
